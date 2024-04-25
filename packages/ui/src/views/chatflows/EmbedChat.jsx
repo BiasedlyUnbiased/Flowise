@@ -110,7 +110,7 @@ const chatwindowConfig = (isReact = false) => {
                     height: 700,
                     width: 400,
                     fontSize: 16,
-                    poweredByTextColor: "transparent",
+                    poweredByTextColor: "#ffffff",
                     botMessage: {
                         backgroundColor: "#f7f8ff",
                         textColor: "#303235",
